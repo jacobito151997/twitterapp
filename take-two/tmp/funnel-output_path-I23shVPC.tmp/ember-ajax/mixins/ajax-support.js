@@ -1,0 +1,1 @@
+/Users/jesseriedel/Documents/Practice/take-two/tmp/funnel-input_base_path-Hv4jldml.tmp/mixins/ajax-support.js

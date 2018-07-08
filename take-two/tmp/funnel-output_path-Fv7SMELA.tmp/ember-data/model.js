@@ -1,0 +1,1 @@
+/Users/jesseriedel/Documents/Practice/take-two/node_modules/ember-data/addon/model.js
